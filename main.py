@@ -49,6 +49,7 @@ exp_data = pd.read_csv('Expanded_Dataset_with_Additional_Players.csv')
 
 
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.CYBORG])  # , suppress_callback_exceptions=True)
+server = app.server
 
 
 def process_csv_data(filename):
