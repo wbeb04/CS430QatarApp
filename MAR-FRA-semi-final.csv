@@ -1,0 +1,24 @@
+Team,Player,Event,Type,X,Y,X2,Y2
+FRA,Varane,Pass,Goal_1Game,60,63,81,70
+FRA,Griezmann,Dribble,Goal_1Game,81,70,95,69
+FRA,Griezmann,Pass,Goal_1Game,95,68,90,56
+FRA,Mbappe,Shot,Goal_1Game,90,55,95,47
+FRA,T. Hernandez,Shot,Goal_1,97,34,99,46
+MAR,Ounahi,Shot,Chance,20,63,1,45
+FRA,Giroud,Shot,Chance,88,32,98,42
+FRA,Tchouameni,Dribble,Play,41,66,70,33
+FRA,Giroud,Shot,Chance,89,54,98,44
+MAR,Yamiq,Shot,Chance,13,59,1,54
+MAR,Boufal,Shot,Chance,21,48,1,57
+FRA,Tchouameni,Pass,Goal_2Game,46,54,53,55
+FRA,Fofana,Carry,Goal_2Game,53,55,68,63
+FRA,Fofana,Carry,Goal_2Game,68,64,78,64
+FRA,Fofana,Pass,Goal_2Game,78,63,77,49
+FRA,Mbappe,Pass,Goal_2Game,78,45,87,26
+FRA,Thuram,Carry,Goal_2Game,87,24,92,29
+FRA,Thuram,Pass,Goal_2Game,92,29,86,34
+FRA,Mbappe,Dribble,Goal_2Game,85,33,86,39
+FRA,Mbappe,Dribble,Goal_2Game,86,39,89,36
+FRA,Mbappe,Pass,Goal_2Game,88,36,96,59
+FRA,Muani,Shot,Goal_2,96,58,98,51
+MAR,Ounahi,Shot,Chance,11,44,1,52

@@ -1,0 +1,20 @@
+Team,Player,Event,Type,X,Y,X2,Y2
+MAR,A. Hakimi,Shot,Chance,21,66,1,55
+MAR,N. Mazraoui,Shot,Chance,24,42,1,50
+MAR,N. Aguerd,Shot,Chance,4,44,1,43
+ESP,D. Olmo,Shot,Chance,90,14,98,48
+MAR,Morata,Shot,Chance,98,68,98,57
+MAR,W.Cheddira,Shot,Chance,10,43,2,40
+ESP,D. Olmo,Shot,Chance,76,21,98,52
+MAR,W.Cheddira,Shot,Chance,7,43,1,48
+ESP,Sarabia,Shot,Chance,98,66,99,46
+MAR,H6,Definse,def_line1,79,32,-,-
+MAR,H6,Definse,def_line1,80,63,-,-
+MAR,H6,Definse,def_line1,80,90,-,-
+MAR,H6,Definse,def_line1,79,12,-,-
+MAR,H6,Definse,def_line2,76,49,-,-
+MAR,H6,Definse,def_line3,68,87,57,88
+MAR,H6,Definse,def_line3,67,67,58,74
+MAR,H6,Definse,def_line3,66,41,55,34
+MAR,H6,Definse,def_line3,66,16,58,19
+MAR,H6,Definse,def_line4,56,47,52,48

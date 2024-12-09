@@ -1,0 +1,16 @@
+Team,Player,Event,Type,X,Y,X2,Y2
+SEN,B.Dia,Shot,Chance,7,61,3,52
+ENG,H. Maguire,Pass,Goal_1Game,27,7,35,3
+ENG,L. Shaw,Pass,Goal_1Game,35,3,48,3
+ENG,P. Foden,Pass,Goal_1Game,48,3,61,10
+ENG,H.Kane,Pass,Goal_1Game,65,12,82,22
+ENG,J. Bellingham,Pass,Goal_1Game,90,24,88,41
+ENG,J.Henderson,Shot,Goal_1,88,41,98,56
+ENG,J. Bellingham,Dribble,Goal_2Game,33,49,53,51
+ENG,J. Bellingham,Pass,Goal_2Game,52,50,67,29
+ENG,P. Foden,Pass,Goal_2Game,67,28,73,57
+ENG,H.Kane,Shot,Goal_2,86,61,98,41
+ENG,H.Kane,Shot,Chance,75,41,97,44
+ENG,P. Foden,Pass,Goal_3Game,92,22,91,41
+ENG,B.Saka,Shot,Goal_3,92,42,98,46
+SEN,Sarr,Shot,Chance,27,45,1,34
